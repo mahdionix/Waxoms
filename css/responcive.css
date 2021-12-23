@@ -1,0 +1,926 @@
+@media (max-width: 575.98px) { 
+
+/* ===============================
+        nav part start
+==================================*/
+.nav_inner i{
+    color: #fff;
+}
+.navbar-toggler:focus {
+	border: 2px solid #fff;
+    box-shadow: none;
+}
+.navbar-nav li{
+    background-color: #444242;
+    text-align: center;
+}
+.navbar-collapse {
+	flex-basis: 100%;
+	flex-grow: 1;
+	align-items: center;
+	padding-left: 253px;
+}
+
+
+ /* ===============================
+        nav part end
+==================================*/
+
+ /* ===============================
+        banner part start
+==================================*/
+
+.banner_img {
+	padding: 300px 0;
+}
+.banner_text h2 {
+	font-size: 17px;
+	font-weight: 500;
+}
+.banner_text h1 {
+	font-size: 28px;
+	font-weight: 700;
+}
+.banner_text p {
+	font-size: 10px;
+	padding-bottom: 30px;
+}
+.banner_inner {
+	top: 40%;
+}
+#banner .prev {
+	top: 37%;
+}
+#banner .next{
+    top: 37%;
+}
+#banner .slick-dots {
+	bottom: 6%;
+	left:50%;
+}
+#banner .slick-dots li {
+	width: 15px;
+	height: 15px;
+}
+#banner .slick-dots li button {
+	width: 10px;
+	height: 10px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+ /* ===============================
+        banner part end
+==================================*/
+
+ /* ===============================
+        about part start
+==================================*/
+
+#about {
+	margin: 50px 0;
+}
+.about_inner {
+	padding-bottom: 30px;
+}
+.about_inner::after {
+	bottom: 8%;
+}
+.about_inner i {
+	font-size: 30px;
+}
+.about_inner h2 {
+	font-size: 18px;
+}
+.about_inner p {
+	padding: 0 5px;
+}
+
+ /* ===============================
+        about part end
+==================================*/
+
+ /* ===============================
+        idea part start
+==================================*/
+
+#idea {
+	padding-top: 0px;
+}
+.idea_head h2 {
+	font-size: 22px;
+}
+.idea_head p {
+	font-size: 12px;
+	padding: 15px 0 10px 0;
+}
+.slider {
+	height: 200px !important;
+}
+
+ /* ===============================
+        idea part end
+==================================*/
+
+ /* ===============================
+        theme part start
+==================================*/
+
+.theme_text h3 {
+	font-size: 20px;
+}
+.theme_text p {
+	font-size: 14px;
+}
+.theme_btn {
+	text-align: center;
+	padding: 20px 30px 0 0;
+}
+.theme_btn a {
+	padding: 10px 20px;
+}
+.project_text::after {
+	top: -10%;
+	width: 20px;
+	height: 20px;
+}
+
+ /* ===============================
+        theme part end
+==================================*/
+
+ /* ===============================
+        project part start
+==================================*/
+
+#project {
+	margin: 50px 0;
+}
+.project_head h2 {
+	font-size: 25px;
+}
+.project_head p {
+	font-size: 14px;
+}
+.project_btn button {
+	padding: 5px 5px;
+}
+.project_icon i {
+	font-size: 20px;
+	padding: 0 3px;
+}
+.project_text h3 {
+	font-size: 13px;
+}
+.project_text p {
+	font-size: 12px;
+}
+.project_btn{
+	text-align: center;
+}
+
+ /* ===============================
+        project part end
+==================================*/
+
+ /* ===============================
+        video part start
+==================================*/
+
+#video {
+	padding: 100px 0;
+}
+.video_main h3 {
+	font-size: 25px;
+	padding-top: 15px;
+}
+.video_main p {
+	font-size: 12px;
+}
+
+ /* ===============================
+        video part end
+==================================*/
+
+ /* ===============================
+        phone part start
+==================================*/
+
+.phone_img img {
+	width: 100%;
+	padding-top: 191px;
+}
+.phone_text h3 {
+	font-size: 16px;
+	padding-top: 0;
+}
+.phone_text p {
+	font-size: 12px;
+	padding: 12px 0;
+}
+.phone_list li i {
+	margin-right: 5px;
+	width: 18px;
+	height: 18px;
+	padding-left: 6px;
+	padding-top: 2px;
+}
+.phone_list ol, ul {
+	padding-left: 0;
+}
+.phone_list li {
+	font-size: 12px;
+}
+
+ /* ===============================
+        phone part end
+==================================*/
+
+ /* ===============================
+        number part start
+==================================*/
+
+.number_main i {
+	font-size: 30px;
+}
+.number_main h3 {
+	font-size: 25px;
+	padding: 0px 0;
+}
+.number_main p {
+	font-size: 8px;
+}
+.number_main p::after {
+	bottom: -15px;
+}
+
+ /* ===============================
+        number part end
+==================================*/
+
+.post_head h2 {
+	font-size: 25px;
+	padding-bottom: 12px;
+}
+.post_head p {
+	font-size: 12px;
+	line-height: 20px;
+}
+
+ /* ===============================
+        post part start
+==================================*/
+
+#post {
+	padding: 50px 0;
+}
+.post_inner {
+	padding: 10px 10px;
+}
+.post_text {
+	padding: 20px;
+}
+.post_text p {
+	line-height: 20px;
+	padding: 5px 0 10px 0;
+}
+
+ /* ===============================
+        post part end
+==================================*/
+
+ /* ===============================
+        brand part start
+==================================*/
+
+#brand {
+	padding: 60px 0;
+}
+.brand_img img{
+	width: 100%;
+}
+
+ /* ===============================
+        brand part end
+==================================*/
+
+ /* ===============================
+        footer part start
+==================================*/
+
+#footer {
+	padding: 50px 0;
+}
+.footer_one p {
+	font-size: 12px;
+	padding: 15px 0;
+}
+.footer_two h3 {
+	padding-top: 20px;
+}
+.footer_two_text {
+	padding: 15px 0;
+}
+.footer_two_text h6 {
+	font-size: 10px;
+}
+.footer_two_text p {
+	font-size: 10px;;
+}
+.footer_three_text {
+	padding: 10px 0;
+}
+.footer_three_text p {
+	font-size: 10px;
+}
+.footer_four h3 {
+	font-size: 23px;
+}
+
+ /* ===============================
+        footer part end
+==================================*/
+
+ /* ===============================
+        last part start
+==================================*/
+
+#last {
+	padding: 30px 0;
+}
+.last_left p {
+	font-size: 10px;
+	padding: 0 5px;
+}
+.last_right p {
+	font-size: 10px;
+	padding: 0 5px;
+}
+
+ /* ===============================
+        last part end
+==================================*/
+
+ }
+
+
+@media (min-width: 576px) and (max-width:767.98px) { 
+
+/* ===============================
+        nav part start
+==================================*/
+
+.navbar-brand img{
+	padding-left: 10px;
+}
+.navbar-toggler{
+	color: #fff !important;
+}
+.navbar-nav{
+	background-color: #444242;
+}
+.navbar-collapse {
+	padding-left: 365px;
+	text-align: center;
+}
+
+ /* ===============================
+        nav part end
+==================================*/
+
+ /* ===============================
+        banner part start
+==================================*/
+
+.banner_img {
+	padding: 300px 0;
+}
+.banner_inner {
+	top: 35%;
+}
+#banner .prev {
+	top: 30%;
+}
+#banner .next {
+	top: 30%;
+}
+.banner_text h2 {
+	font-size: 20px;
+}
+.banner_text h1 {
+	font-size: 40px;
+}
+.banner_text p {
+	font-size: 12px;
+}
+#banner .slick-dots {
+	bottom: 10%;
+}
+#banner .slick-dots li {
+	width: 20px;
+	height: 20px;
+}
+#banner .slick-dots li button {
+	margin-top: -2px;
+	margin-left: -2px;
+}
+
+ /* ===============================
+        banner part end
+==================================*/
+
+ /* ===============================
+        about part start
+==================================*/
+
+#about {
+	margin: 60px 0;
+}
+.about_inner p {
+	padding: 0 10px;
+	margin-bottom: 30px;
+}
+.about_inner::after {
+	bottom: -10%;
+}
+
+ /* ===============================
+        about part end
+==================================*/
+
+ /* ===============================
+        idea part start
+==================================*/
+
+#idea {
+	padding-top: 60px;
+}
+.idea_head h2 {
+	font-size: 25px;
+}
+.idea_head p {
+	font-size: 12px;
+}
+.slider {
+	height: 250px !important;
+}
+.slider {
+	margin-top: 15px;
+}
+
+ /* ===============================
+        idea part end
+==================================*/
+
+ /* ===============================
+        theme part start
+==================================*/
+
+.theme_text h3 {
+	font-size: 25px;
+}
+.theme_text p {
+	font-size: 15px;
+}
+.theme_btn {
+	text-align: center;
+	padding: 25px 16px 0 0;
+}
+.theme_btn a {
+	padding: 10px 20px;
+	font-size: 16px;
+}
+
+ /* ===============================
+        theme part end
+==================================*/
+
+ /* ===============================
+        project part start
+==================================*/
+
+#project {
+	margin: 60px 0;
+}
+.project_head h2 {
+	font-size: 25px;
+}
+.project_head p {
+	font-size: 12px;
+}
+.project_btn button {
+	padding: 5px 12px;
+}
+.project_icon i {
+	font-size: 25px;
+	padding: 0 5px;
+}
+.project_text::after {
+	top: -11%;
+}
+.project_text h3 {
+	font-size: 15px;
+}
+.project_text p {
+	font-size: 12px;
+}
+.project_btn{
+	text-align: center;
+}
+.project_btn a {
+	padding: 10px 25px;
+}
+.container, .container-sm {
+	max-width: none;
+}
+
+ /* ===============================
+        project part end
+==================================*/
+
+ /* ===============================
+        video part start
+==================================*/
+
+#video {
+	padding: 120px 0;
+}
+.video_main i {
+	font-size: 45px;
+}
+.video_main h3 {
+	font-size: 25px;
+	padding-top: 20px;
+}
+.video_main p {
+	font-size: 14px;
+	margin: 0 5px;
+}
+
+ /* ===============================
+        video part end
+==================================*/
+
+ /* ===============================
+        phone part start
+==================================*/
+
+.phone_img img {
+	width: 100%;
+	text-align: end;
+	padding-top: 32px;
+}
+.phone_text h3 {
+	font-size: 22px;
+	padding-top: 0px;
+}
+.phone_text p {
+	font-size: 12px;
+	padding: 15px 0;
+}
+.phone_list li {
+	font-size: 12px;
+}
+.phone_list li i {
+	margin-right: 5px;
+	width: 15px;
+	height: 15px;
+	padding-left: 4px;
+	padding-top: 1px;
+}
+#phone ol, ul {
+	padding-left: 0;
+}
+
+ /* ===============================
+        phone part end
+==================================*/
+
+ /* ===============================
+        number part start
+==================================*/
+
+.number_main i {
+	font-size: 40px;
+}
+.number_main h3 {
+	font-size: 35px;
+	padding: 0;
+}
+.number_main p {
+	font-size: 12px;
+}
+
+ /* ===============================
+        number part end
+==================================*/
+
+ /* ===============================
+        post part start
+==================================*/
+
+#post {
+	padding: 60px 0;
+}
+.post_head h2 {
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+.post_head p {
+	font-size: 12px;
+	line-height: 20px;
+}
+.post_text {
+	padding: 25px;
+}
+.post_text p {
+	color: #8c8c8c;
+	font-size: 14px;
+	line-height: 23px;
+	padding: 6px 0 12px 0;
+}
+
+ /* ===============================
+        post part end
+==================================*/
+
+ /* ===============================
+        brand part start
+==================================*/
+
+#brand {
+	padding: 60px 0;
+}
+.brand_img img{
+	width: 100%;
+}
+
+ /* ===============================
+        brand part end
+==================================*/
+
+ /* ===============================
+        footer part start
+==================================*/
+
+#footer {
+	padding: 60px 0;
+}
+.footer_one p {
+	font-size: 12px;
+}
+.footer_two_text {
+	padding: 15px 0;;
+}
+.footer_two_text h6 {
+	font-size: 11px;
+}
+.footer_two_text p {
+	font-size: 12px;
+}
+.footer_three_text {
+	padding: 15px 0;
+}
+.footer_three_text p {
+	font-size: 12px;
+}
+
+ /* ===============================
+        footer part end
+==================================*/
+
+ /* ===============================
+        last part start
+==================================*/
+
+#last {
+	padding: 20px 0;
+}
+.last_left p {
+	font-size: 9px;
+	padding: 0px 4px;
+}
+.last_right p {
+	font-size: 10px;
+	padding: 0px 5px;
+}
+
+ /* ===============================
+        last part end
+==================================*/
+
+}
+
+@media (min-width: 768px) and (max-width:991.98px) { 
+
+ /* ===============================
+        nav part start
+==================================*/
+
+.navbar-light .navbar-toggler {
+	color: #fff !important;
+}
+.navbar-nav{
+	background-color: #444242;
+}
+.navbar-collapse {
+	margin-left: 556px;
+	text-align: center;
+}
+
+ /* ===============================
+        nav part end
+==================================*/
+
+ /* ===============================
+        banner part start
+==================================*/
+
+.banner_img {
+	padding: 320px 0;
+}
+.banner_inner {
+	top: 35%;
+}
+.banner_text h2 {
+	font-size: 27px;
+}
+.banner_text p {
+	font-size: 12px;
+}
+#banner .prev {
+	top: 30%;
+}
+#banner .next {
+	top: 30%;
+}
+#banner .slick-dots {
+	bottom: 10%;
+	left: 49%;
+}
+
+ /* ===============================
+        banner part end
+==================================*/
+
+ /* ===============================
+        about part start
+==================================*/
+
+#about {
+	margin: 70px 0;
+}
+.about_inner {
+	padding-bottom: 35px;
+}
+.about_inner h2 {
+	font-size: 20px;
+	padding: 10px 0;
+}
+.about_inner p {
+	font-size: 12px;
+}
+.about_inner::after {
+	bottom: 10%;
+}
+
+ /* ===============================
+        about part end
+==================================*/
+
+ /* ===============================
+        idea part start
+==================================*/
+
+#idea {
+	padding-top: 70px;
+}
+.slider {
+	height: 300px !important;
+}
+.idea_head p {
+	padding: 15px 0 30px 0;
+}
+
+ /* ===============================
+        idea part end
+==================================*/
+
+ /* ===============================
+        theme part start
+==================================*/
+
+.theme_btn {
+	text-align: center;
+	padding: 26px 5px 0 0;
+}
+
+ /* ===============================
+        theme part end
+==================================*/
+
+ /* ===============================
+        project part start
+==================================*/
+
+.project_btn {
+	text-align: center;
+	padding-top: 20px;
+}
+
+ /* ===============================
+        project part end
+==================================*/
+
+ /* ===============================
+        video part start
+==================================*/
+
+#video {
+	padding: 150px 0;
+}
+
+ /* ===============================
+        video part end
+==================================*/
+
+ /* ===============================
+        phone part start
+==================================*/
+
+.phone_img  img{
+	width: 100%;
+}
+.phone_text h3 {
+	font-size: 28px;
+	padding-top: 0;
+}
+#phone ol, ul {
+	padding-left: 1rem;
+}
+.phone_list li i {
+	margin-right: 10px;
+}
+.phone_list li {
+	font-size: 12px;
+}
+.phone_list li i {
+	padding-left: 6px;
+	padding-top: 3px;
+}
+ /* ===============================
+        phone part end
+==================================*/
+
+ /* ===============================
+        brand part start
+==================================*/
+
+#brand {
+	padding: 80px 0;
+}
+.brand_img img{
+    width: 100%;
+}
+
+ /* ===============================
+        brand part end
+==================================*/
+
+ /* ===============================
+        footer part start
+==================================*/
+
+#footer {
+	padding: 80px 0;
+}
+
+ /* ===============================
+        footer part end
+==================================*/
+
+ /* ===============================
+        last part start
+==================================*/
+
+#last {
+	padding: 30px 0;
+}
+.last_left p {
+	font-size: 11px;
+	padding: 0px 5px;
+}
+
+ /* ===============================
+        last part end
+==================================*/
+
+}
+
+@media (min-width: 992px) and (max-width:1199.98px) { 
+
+}
+
+@media (min-width: 1200px) and (max-width:1399.98px) { 
+
+}
